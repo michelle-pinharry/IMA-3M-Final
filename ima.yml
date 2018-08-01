@@ -1,0 +1,10 @@
+name: ima
+dependencies:
+- python=3.6
+- nb_conda
+- matplotlib
+- seaborn
+- numpy
+- scikit-learn
+- pandas
+- scipy
