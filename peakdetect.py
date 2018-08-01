@@ -1,3 +1,7 @@
+# Find the original code at
+# https://github.com/har1eyk/peakdetect/blob/5e5a451cfff8d5aa8d95cf25c1db8eae022c36e3/peakdetect.py
+# I do not claim any original credit for this code
+
 import sys
 from numpy import NaN, Inf, arange, isscalar, asarray, array
 
